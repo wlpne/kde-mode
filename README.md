@@ -1,5 +1,5 @@
 welcome to the repo
 
-here you can inspect all the files used in packages
+here you can inspect all the files used in the package
 
 enjoy
